@@ -2,7 +2,7 @@
 
 Welcome to my research project portfolio.  
 I am passionate about **Trustworthy NLP, Explainable AI, and Language Model Interpretability**.  
-This repository showcases my applied projects, academic experiments, and code implementations as I prepare for a Ph.D. in the field of **NLP and Responsible AI**.
+This repository showcases my applied projects, academic experiments, and code implementations in the field of **NLP and Responsible AI**.
 
 ---
 
@@ -54,7 +54,7 @@ The project integrates **explainability techniques (LIME, SHAP)** to visualize m
 ---
 
 ## 📬 Contact
-**Email:** [ravinav729@gmail.com](mailto:ravinav729@gmail.com)  
+**Email:** []  
 **GitHub:** [github.com/ravina029](https://github.com/ravina029)  
 **LinkedIn:** [linkedin.com/in/ravina-verma](#)
 
