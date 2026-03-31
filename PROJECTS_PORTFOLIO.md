@@ -77,7 +77,7 @@ The project integrates **explainability techniques (LIME, SHAP)** to visualize m
 ---
 
 ## 📬 Contact
-**Email:** []  
+**Email:** [vermaravina029@gmail.com]  
 **GitHub:** [github.com/ravina029](https://github.com/ravina029)  
 **LinkedIn:** [linkedin.com/in/ravina-verma](#)
 
