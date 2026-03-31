@@ -1,4 +1,4 @@
-# 🧠 Research Portfolio — Ravina Verma
+# 🧠 Research Portfolio — Ravina Behwal
 
 Welcome to my research portfolio.  
 I work at the intersection of **Trustworthy NLP, Explainable AI, and Reliable Language Model Evaluation**, with a particular interest in building **transparent, safe, and evidence-grounded NLP systems** for high-stakes applications.  
