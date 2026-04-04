@@ -238,5 +238,9 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-**Ravina Behwal**  
+**Ravina**  
 Master’s in Mathematics | Aspiring PhD Researcher in NLP & Trustworthy AI  
+
+#### 📂 Repository Link
+➡️ [View Project on GitHub](https://github.com/ravina029/IMDB_text_classification)
+
