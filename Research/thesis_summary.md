@@ -165,7 +165,7 @@ Two experiments were conducted:
 
 ## 🛠️ Artifacts
 
-- 📄 Full Thesis: [Attach PDF here]
+- 📄 Full Thesis: [https://github.com/ravina029/Research_portfolio/blob/main/Research/M.Sc_thesis.pdf]
 - 💻 Code: [Add if available]
 - 📊 Experimental Results: [Optional]
 
