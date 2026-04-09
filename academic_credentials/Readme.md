@@ -35,13 +35,8 @@ This qualification supports my work in:
 
 ### Certificate
 
-📄 [View Official Certificate](CSIR_UGC_NET_Certificate_Ravina_Verma.pdf)
+📄 [View Official Certificate]((https://github.com/ravina029/Research_portfolio/blob/main/academic_credentials/CSIR_UGC_NET_Ravina_certificate.pdf)
+)
 
----
 
-### Note
 
-This certificate was originally issued as a password-protected electronic document.
-The uploaded version is a processed copy for accessibility.
-
----
