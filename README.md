@@ -109,7 +109,7 @@ This portfolio is intended to support applications for **PhD positions in NLP**,
 
 - **Email:** vermaravina029@gmail.com  
 - **GitHub:** https://github.com/ravina029  
-- **LinkedIn:** (add your link)
+- **LinkedIn:** https://www.linkedin.com/in/ravinabehwal/
 
 ---
 
